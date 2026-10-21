@@ -1,0 +1,6 @@
+{
+  "name": "Synthetica - Digital Marketing & AI Review",
+  "description": "A modern, authoritative digital publication exploring the frontier of AI in digital marketing, search optimization, autonomous ad operations, and predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
